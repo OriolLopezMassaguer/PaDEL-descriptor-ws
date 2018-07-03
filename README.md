@@ -38,7 +38,7 @@ Molecule | Computation method | Computation time
 
 The throughput of descriptor computation is **increased by 7x** (test dataset).
 
-If you want to obtain further information please contact the author Oriol López Massaguer oriol.lopez@upf.edu
+If you want to obtain further information please contact the author Oriol López Massaguer oriol.lopez@gmail.com
 
 Copyright 2017 Oriol Lopez
 
