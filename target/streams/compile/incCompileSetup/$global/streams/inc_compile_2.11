@@ -1,0 +1,456 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.11.11
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+17 items
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/Application$$anonfun$computeDescriptors$1.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/Application$.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/Application.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/ReverseApplication.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/javascript/ReverseApplication.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/routes.java -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/routes$javascript.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/routes.java -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/routes.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes$$anonfun$documentation$1.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Application_computeDescriptors0_invoker$1.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes$$anonfun$routes$1.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes$.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/RoutesPrefix$$anonfun$1.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/RoutesPrefix$.class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/RoutesPrefix.class
+binary dependencies:
+16 items
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> /home/oriol/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.11.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> /home/oriol/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/lib/PaDEL-Descriptor.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /home/oriol/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.11.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /home/oriol/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/oriol/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.11.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /home/oriol/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/routes.java -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> /home/oriol/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.11.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> /home/oriol/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /home/oriol/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+6 items
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/routes.java -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/routes.java -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/routes.java -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/routes.java
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/routes.java -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> /home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+17 items
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> controllers.Application
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> controllers.Application$
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> controllers.Application$$anonfun$computeDescriptors$1
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> controllers.ReverseApplication
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseApplication
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/routes.java -> controllers.routes
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/routes.java -> controllers.routes$javascript
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$documentation$1
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$router$Routes$$controllers_Application_computeDescriptors0_invoker$1
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix$
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix$$anonfun$1
+used names:
+277 items
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> +
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> -
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> /
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> <byname>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> <init>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Action
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Any
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> AnyContent
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Application
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Array
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> C
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Char
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Codec
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Controller
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Int
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Long
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Nothing
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Object
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Ok
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> PaDELDescriptorApp
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Predef
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Result
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Status
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> String
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> StringOps
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> System
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Unit
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> Writeable
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> api
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> app
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> apply
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> augmentString
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> controllers
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> getApplication
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> http
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> java
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> lang
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> launchCommandLine
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> lparams
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> mvc
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> nanoTime
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> padeldescriptor
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> params
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> play
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> println
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> scala
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> split
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> t0
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> t1
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> utf_8
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> wString
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> +
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> <byname>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> <init>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> <refinement>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> <repeated>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> A
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Any
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> AnyRef
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Asset
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Assets
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Boolean
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Call
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> HandlerDef
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> JavascriptLiteral
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> List
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Map
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Nothing
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Object
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Option
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> PathBindable
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Predef
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> QueryStringBindable
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> ReverseApplication
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> ReverseRouteContext
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Right
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Seq
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> Some
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> String
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> T
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> _defaultPrefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> _prefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> _root_
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> api
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> apply
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> bindableString
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> controllers
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> core
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> dynamicString
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> empty
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> endsWith
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> immutable
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> implicitly
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> mvc
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> package
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> params
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> play
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> queryString
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> routing
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> scala
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> unbind
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> +
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <byname>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <init>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <refinement>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Any
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> AnyRef
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Asset
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Assets
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Boolean
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Call
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> HandlerDef
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> JavaScriptReverseRoute
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> JavascriptLiteral
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Map
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Nothing
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Object
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Option
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> PathBindable
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Predef
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> QueryStringBindable
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseApplication
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseRouteContext
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Right
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Seq
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> String
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> T
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _defaultPrefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _prefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _root_
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> api
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> bindableString
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> core
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> dynamicString
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> empty
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> endsWith
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> implicitly
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> javascript
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> javascriptUnbind
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> mvc
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> package
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> play
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> queryString
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> routing
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> scala
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> +
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> ++
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> :+
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> <byname>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> <init>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> <refinement>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> <repeated>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> ?0
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> A
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> A1
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> AbstractPartialFunction
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Action
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Any
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> AnyContent
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> AnyRef
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Application
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Asset
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Assets
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> B
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> B1
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Boolean
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> CanBuildFrom
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Class
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> ClassLoader
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Coll
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Function1
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Function2
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> GenTraversableOnce
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> GeneratedRouter
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Handler
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> HandlerDef
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> HandlerInvoker
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> HandlerInvokerFactory
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> HttpErrorHandler
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> LazyHttpErrorHandler
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> List
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Map
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Nil
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> None
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Nothing
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Object
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Option
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> P
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Param
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> ParamsExtractor
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> PartialFunction
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> PathPart
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> PathPattern
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Predef
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Product
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> QueryStringBindable
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> RequestHeader
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> ReverseRouteContext
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Right
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Route
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> RouteParams
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Routes
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> RoutesPrefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Seq
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Serializable
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> StaticPart
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> String
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> T
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> T0
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> T1
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> T2
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> T3
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> That
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Tuple3
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> Unit
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> _$1
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> _prefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> _prefix_=
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> api
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> apply
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> asInstanceOf
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> bindableString
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> call
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> canBuildFrom
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> collection
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> computeDescriptors
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> controllers
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> controllers_Application_computeDescriptors0_invoker
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> controllers_Application_computeDescriptors0_route
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> core
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> createInvoker
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> defaultPrefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> e
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> empty
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> endsWith
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> errorHandler
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> fakeValue
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> foldLeft
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> fromQuery
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> get
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> getClass
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> getClassLoader
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> http
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> immutable
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> isEmpty
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> isInstanceOf
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> j
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> mvc
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> package
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> params
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> passThrough
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> play
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> prefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> router
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> routing
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> s
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> scala
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> setPrefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> unapply
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> unary_!
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> unchecked
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> <init>
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> AnyRef
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> Function0
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> Object
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> Predef
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> RoutesPrefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> String
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> Unit
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> _prefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> _prefix_=
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> byNamePrefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> p
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> prefix
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> router
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> scala
+product stamps:
+17 items
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/Application$$anonfun$computeDescriptors$1.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/Application$.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/Application.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/ReverseApplication.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/javascript/ReverseApplication.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/routes$javascript.class -> lastModified(1589967586000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/controllers/routes.class -> lastModified(1589967586000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes$$anonfun$documentation$1.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes$$anonfun$router$Routes$$controllers_Application_computeDescriptors0_invoker$1.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes$$anonfun$routes$1.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes$.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/Routes.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/RoutesPrefix$$anonfun$1.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/RoutesPrefix$.class -> lastModified(1589967585000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/classes/router/RoutesPrefix.class -> lastModified(1589967585000)
+source stamps:
+6 items
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> hash(c4dbc8a7ee33f985e41a5ef87b2b71e59ba342aa)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> hash(e9fec293c9035c5034ffe270cbc1f4ae655e2170)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> hash(32cbba737bf54d2155765df9a96c3afb4982be27)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/routes.java -> hash(08ed87049a068fcb92aee733bda736aa7a97bc12)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> hash(eda0c76a002650f714c183d248cf566dc83f61ef)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> hash(c5aa73ecbba5346aa6cf6fd8f625afc5baf69e95)
+binary stamps:
+4 items
+/home/oriol/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.11.jar -> lastModified(1489176272000)
+/home/oriol/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> lastModified(1492113025000)
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/lib/PaDEL-Descriptor.jar -> lastModified(1589966521000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1579304481000)
+class names:
+4 items
+/home/oriol/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.11.jar -> play.core.routing.GeneratedRouter
+/home/oriol/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar -> scala.Function0
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/lib/PaDEL-Descriptor.jar -> padeldescriptor.PaDELDescriptorApp
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+6 items
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwPIgZ4QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAANzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCOKTKhdAAPcmVxdWVzdDJzZXNzaW9uc3EAfgALfhCRLnQADXJlcXVlc3QyZmxhc2hzcQB+AAttSeUCdAAMcmVxdWVzdDJsYW5ndXEAfgAJAAABFHNxAH4ACyKNvr90AAxSZXNldENvbnRlbnRzcQB+AAsf2TQkdAANTm90QWNjZXB0YWJsZXNxAH4AC0QMG7V0ABFUZW1wb3JhcnlSZWRpcmVjdHNxAH4AC7y4ydl0AAhzZW5kRmlsZXNxAH4AC+nv2MZ0AA9hZGRpbmdUb1Nlc3Npb25zcQB+AAuC+D/qdAAGTG9ja2Vkc3EAfgALd3jyG3QABm5vdGlmeXNxAH4AC/jALtN0AARGUk9Nc3EAfgALDPip1XQAEENPTlRFTlRfTEFOR1VBR0VzcQB+AAszGbfpdAAHQ1JFQVRFRHNxAH4ACyLPx8t0AAd1bmFwcGx5c3EAfgALc8cXe3QAEFRPT19NQU5ZX1JFUVVFU1RzcQB+AAtAI9uPdAAHV0FSTklOR3NxAH4AC8zQFxR0AA9QYXltZW50UmVxdWlyZWRzcQB+AAvXz4DxdAAIQ09OVElOVUVzcQB+AAtcFI5NdAAEYm9keXNxAH4AC6ayZMp0AAVjaHVua3NxAH4AC1xlE490AA5mb3JtJGRlZmF1bHQkMnNxAH4AC8vL0uB0AAtTRVRfQ09PS0lFMnNxAH4AC2nxefd0AAhIVFRQXzFfMXNxAH4AC6Wm/O10ABNDT05URU5UX0RJU1BPU0lUSU9Oc3EAfgALW07J2nQADXJhdyRkZWZhdWx0JDFzcQB+AAuln8JcdAAMQ09OVEVOVF9UWVBFc3EAfgALbDwupnQABkJJTkFSWXNxAH4ACyIEQeF0AAR3YWl0c3EAfgALi1CEy3QAHEFDQ0VTU19DT05UUk9MX0FMTE9XX01FVEhPRFNzcQB+AAtggSJAdAAKQmFkR2F0ZXdheXNxAH4AC0yJ8Dt0ABBNZXRob2ROb3RBbGxvd2Vkc3EAfgALeW4ConQADlRvb01hbnlSZXF1ZXN0c3EAfgALJoFOwnQAE2RlY2h1bmtXaXRoVHJhaWxlcnNzcQB+AAtjRT/ldAAKVVNFUl9BR0VOVHNxAH4AC/2FBwp0ABZzZW5kUmVzb3VyY2UkZGVmYXVsdCQyc3EAfgALpzTQI3QABEhPU1RzcQB+AAtyDldtdAALQ09OVEVOVF9NRDVzcQB+AAvG8v8RdAAOY29weSRkZWZhdWx0JDJzcQB+AAvx96lWdAAHQ3JlYXRlZHNxAH4AC9cysWF0AA0kYXNJbnN0YW5jZU9mc3EAfgAL1z1O83QABWVtcHR5c3EAfgALGLuetnQAEFhfRk9SV0FSREVEX1BPUlRzcQB+AAvr5ae1dAAKSmF2YVNjcmlwdHNxAH4ACzsw9hF0AAtCQURfUkVRVUVTVHNxAH4ACxHTEoB0AAV1c2luZ3NxAH4AC9WXIO50AA5Ob3RJbXBsZW1lbnRlZHNxAH4AC+IgcCh0AAxNQVhfRk9SV0FSRFNzcQB+AAsOB9D5dAAQWF9GT1JXQVJERURfSE9TVHNxAH4AC8S3yq50AANDU1NzcQB+AAsYwyvEdAAMdG9sZXJhbnRKc29uc3EAfgAL/6NVdXQACFNlZU90aGVyc3EAfgAL8wtG33QAB1RSQUlMRVJzcQB+AAsuzaUudAASUFJPWFlfQVVUSEVOVElDQVRFc3EAfgALxAIU13QADUFVVEhPUklaQVRJT05zcQB+AAttDt5vdAADWE1Mc3EAfgALgMPoO3QACmFueUNvbnRlbnRzcQB+AAucWe/LdAANQ0FDSEVfQ09OVFJPTHNxAH4AC8Tx/QF0ABtOb25BdXRob3JpdGF0aXZlSW5mb3JtYXRpb25zcQB+AAugxRmLdAAPTk9UX0lNUExFTUVOVEVEc3EAfgALZtXKf3QADHByb2R1Y3RBcml0eXNxAH4AC45DnBh0AAZlcXVhbHNzcQB+AAsjsiRfdAAQUEFZTUVOVF9SRVFVSVJFRHNxAH4AC4jTy010AARqc29uc3EAfgALTPG5XXQACEFjY2VwdGVkc3EAfgALhmc083QAC1JFVFJZX0FGVEVSc3EAfgALygv+AnQAElJlZGlyZWN0JGRlZmF1bHQkMnNxAH4AC3wt4Y90AA51cmxGb3JtRW5jb2RlZHNxAH4ACwYzVdF0AARKU09Oc3EAfgALZ1OfUHQACFJlZGlyZWN0c3EAfgALO9fFc3QAE1BSRUNPTkRJVElPTl9GQUlMRURzcQB+AAvK8q/WdAAOUGFydGlhbENvbnRlbnRzcQB+AAsbmARzdAAUVW5zdXBwb3J0ZWRNZWRpYVR5cGVzcQB+AAu7Isc8dAAIQ09ORkxJQ1RzcQB+AAuYCPGLdAASc2VuZEZpbGUkZGVmYXVsdCQyc3EAfgALORqPenQADkFDQ0VQVF9DSEFSU0VUc3EAfgALeCiAuXQAEUV4cGVjdGF0aW9uRmFpbGVkc3EAfgALMewrS3QAA1ZJQXNxAH4AC/hhZZt0AAxhc0luc3RhbmNlT2ZzcQB+AAssPE08dAAPUkVRVUVTVF9USU1FT1VUc3EAfgALkscSxXQAEE1VTFRJUExFX0NIT0lDRVNzcQB+AAumg7QFdAARTU9WRURfUEVSTUFORU5UTFlzcQB+AAu/5bh7dAACVEVzcQB+AAsy606UdAAOR2F0ZXdheVRpbWVvdXRzcQB+AAsw7f7CdAAQQ09OVEVOVF9MT0NBVElPTnNxAH4ACxVDFQ10AA9QQVJUSUFMX0NPTlRFTlRzcQB+AAsTz1aUdAATcmVtb3ZpbmdGcm9tU2Vzc2lvbnNxAH4AC0LpnVx0ABRJTlNVRkZJQ0lFTlRfU1RPUkFHRXNxAH4AC91/bjp0ABFtdWx0aXBhcnRGb3JtRGF0YXNxAH4AC08hqnN0AAxFVkVOVF9TVFJFQU1zcQB+AAv8MFQhdAAMc3luY2hyb25pemVkc3EAfgALJ2hj03QAEEZhaWxlZERlcGVuZGVuY3lzcQB+AAvWDqCidAAERVRBR3NxAH4AC9Y7kzl0AA9MRU5HVEhfUkVRVUlSRURzcQB+AAu4T33vdAAOd2l0aE5ld1Nlc3Npb25zcQB+AAsY5BLodAAKSkFWQVNDUklQVHNxAH4AC/a56+V0AA5FbnRpdHlUb29MYXJnZXNxAH4AC+r2ZTp0AAxVTkFVVEhPUklaRURzcQB+AAveNYbwdAASc2VuZFBhdGgkZGVmYXVsdCQyc3EAfgAL9pVwhnQAFlVOU1VQUE9SVEVEX01FRElBX1RZUEVzcQB+AAurCV8MdAANJGlzSW5zdGFuY2VPZnNxAH4AC8jC9Up0AAdSRUZFUkVSc3EAfgAL0VglKXQAGFJFUVVFU1RfRU5USVRZX1RPT19MQVJHRXNxAH4AC+L9TQV0AAZPUklHSU5zcQB+AAuk8mHvdAALd2l0aENvb2tpZXNzcQB+AAvI3Ph8dAAPQUNDRVBUX0xBTkdVQUdFc3EAfgALavklp3QADE5PVF9NT0RJRklFRHNxAH4AC7vTM6x0AAJhc3NxAH4AC495nGp0AAt3aXRoU2Vzc2lvbnNxAH4ACzMdm9B0ABpIVFRQX1ZFUlNJT05fTk9UX1NVUFBPUlRFRHNxAH4AC0eI0nR0ABtBQ0NFU1NfQ09OVFJPTF9BTExPV19PUklHSU5zcQB+AAujxTsLdAASc2VuZEZpbGUkZGVmYXVsdCQzc3EAfgALeeKHcHQAE1VucHJvY2Vzc2FibGVFbnRpdHlzcQB+AAsUbXX9dAANcmF3JGRlZmF1bHQkMnNxAH4ACxVDxSp0AAR0ZXh0c3EAfgALatR6WnQACGNhbkVxdWFsc3EAfgALGu8CvHQACE5vdEZvdW5kc3EAfgALSHv5LXQACElGX1JBTkdFc3EAfgAL6rYo63QAEnNlbmRGaWxlJGRlZmF1bHQkNHNxAH4ACx+0Nnl0ABttdWx0aXBhcnRGb3JtRGF0YSRkZWZhdWx0JDJzcQB+AAu0vxd5dAAIZmxhc2hpbmdzcQB+AAs7Um7odAAHZGVjaHVua3NxAH4AC8wTjRN0AARGT1JNc3EAfgALT2q0wXQAE0lGX1VOTU9ESUZJRURfU0lOQ0VzcQB+AAt95eiwdAATU1dJVENISU5HX1BST1RPQ09MU3NxAH4AC3bSt7B0ABJURU1QT1JBUllfUkVESVJFQ1RzcQB+AAvsVr0XdAANcHJvZHVjdFByZWZpeHNxAH4ACwtcYOV0AA5DT05URU5UX0xFTkdUSHNxAH4AC++zcYV0AA10ZW1wb3JhcnlGaWxlc3EAfgAL18j7a3QAClNFVF9DT09LSUVzcQB+AAtdtCOBdAAJbm90aWZ5QWxsc3EAfgALsmAe6nQAA0FHRXNxAH4ACymBnf50ABREZWZhdWx0TWF4VGV4dExlbmd0aHNxAH4AC1xlYAh0AAtCQURfR0FURVdBWXNxAH4AC5tqIPV0ABJFWFBFQ1RBVElPTl9GQUlMRURzcQB+AAtRABjldAAKQ09OTkVDVElPTnNxAH4AC2cd9rV0AAlGT1JXQVJERURzcQB+AAuj6ij8dAACT2tzcQB+AAtCs31LdAAMaXNJbnN0YW5jZU9mc3EAfgALU31FNnQAEE1vdmVkUGVybWFuZW50bHlzcQB+AAuDtaisdAACT0tzcQB+AAv04cQmdAARZGlzY2FyZGluZ0Nvb2tpZXNzcQB+AAtMjoD+dAAcQUNDRVNTX0NPTlRST0xfQUxMT1dfSEVBREVSU3NxAH4AC7cGxHJ0AA5DQUNIRV9NQU5JRkVTVHNxAH4AC6SZBa50AAlGb3JiaWRkZW5zcQB+AAv22PGVdAAXSHR0cFZlcnNpb25Ob3RTdXBwb3J0ZWRzcQB+AAv9qD0pdAAEVEVYVHNxAH4AC5KjV+B0AApCYWRSZXF1ZXN0c3EAfgAL1V5dZnQABUZPVU5Ec3EAfgALNt5uu3QABjxpbml0PnNxAH4ACxFtjER0AAtOb3RNb2RpZmllZHNxAH4ACwGTdhF0AAREQVRFc3EAfgALHYV+JnQABWFzeW5jc3EAfgALtKXpR3QADUNPTlRFTlRfUkFOR0VzcQB+AAs+JZvFdAAJVU5MSU1JVEVEc3EAfgALiwBn6XQABCRhbXBzcQB+AAuYxPy2dAAMc2VuZFJlc291cmNlc3EAfgALOjRT1XQADHRvbGVyYW50VGV4dHNxAH4AC9YmK890AAdjaHVua2Vkc3EAfgAL2Rq9TXQAEVRSQU5TRkVSX0VOQ09ESU5Hc3EAfgALaLGG8XQABWFwcGx5c3EAfgALPKh1EHQAA3Jhd3NxAH4AC97TaqN0AAVlcnJvcnNxAH4AC9iKnz10AAN4bWxzcQB+AAvKouyadAAFcGFyc2VzcQB+AAuL1B48dAATUFJPWFlfQVVUSE9SSVpBVElPTnNxAH4AC3ad5JV0AAI9PXNxAH4AC26oddJ0AARHT05Fc3EAfgALwbscYHQABEdvbmVzcQB+AAuXrmafdAAgQUNDRVNTX0NPTlRST0xfQUxMT1dfQ1JFREVOVElBTFNzcQB+AAv7sWdydAAOTk9UX0FDQ0VQVEFCTEVzcQB+AAsnsMTgdAAFY2xvbmVzcQB+AAsQQCbDdAAGc3RyZWFtc3EAfgALuAH1wXQABkVYUEVDVHNxAH4ACyJE4fV0ABZzZW5kUmVzb3VyY2UkZGVmYXVsdCQzc3EAfgALVGsa6XQAB2RlZmF1bHRzcQB+AAtxY7g2dAASU2VydmljZVVuYXZhaWxhYmxlc3EAfgALZCQrP3QACExPQ0FUSU9Oc3EAfgAL4dXewHQAEnNlbmRQYXRoJGRlZmF1bHQkNHNxAH4AC8U494p0AARWQVJZc3EAfgALeAPvdnQAEFdXV19BVVRIRU5USUNBVEVzcQB+AAv4vXHmdAALQXBwbGljYXRpb25zcQB+AAtM7WhzdAAEZmVlZHNxAH4AC6vMZLJ0AARUT0RPc3EAfgAL3PIQJ3QAD1hfRk9SV0FSREVEX0ZPUnNxAH4AC98FEzl0AA5mb3JtJGRlZmF1bHQkM3NxAH4AC3ro33x0AAYkaW5pdCRzcQB+AAvDeCpLdAASUHJlY29uZGl0aW9uRmFpbGVkc3EAfgALrnenp3QACEFDQ0VQVEVEc3EAfgALb5plFnQABEh0bWxzcQB+AAsQiNn0dAAKTk9fQ09OVEVOVHNxAH4AC7eYQwx0AAhIVFRQXzFfMHNxAH4AC4fvVIV0ABVJTlRFUk5BTF9TRVJWRVJfRVJST1JzcQB+AAvvgRfMdAAPY2h1bmskZGVmYXVsdCQxc3EAfgALMGopxHQAEmNvbXB1dGVEZXNjcmlwdG9yc3NxAH4ACzemimF0AAdVUEdSQURFc3EAfgALBH23K3QAFnRvbGVyYW50Rm9ybVVybEVuY29kZWRzcQB+AAtYjT0tdAAJTk9UX0ZPVU5Ec3EAfgAL7aiiOnQAB3Nlc3Npb25zcQB+AAtKjMsddAAPQUNDRVBUX0VOQ09ESU5Hc3EAfgALrVEHG3QAE0ludGVybmFsU2VydmVyRXJyb3JzcQB+AAv5I9FgdAAHRVhQSVJFU3NxAH4AC6ApGf90AA5jb3B5JGRlZmF1bHQkM3NxAH4ACwT5Evd0AARjb3B5c3EAfgALty34FXQAH1JFUVVFU1RFRF9SQU5HRV9OT1RfU0FUSVNGSUFCTEVzcQB+AAvKHIqYdAADYXBwc3EAfgALgVIe/3QABmhlYWRlcnNxAH4AC4kxTpB0ABREZWZhdWx0TWF4RGlza0xlbmd0aHNxAH4ACxO+JR50AAh0b1N0cmluZ3NxAH4AC3SV0910AAxVbmF1dGhvcml6ZWRzcQB+AAv+Tl/AdAAEZmlsZXNxAH4AC6O4LVp0AA5SZXF1ZXN0VGltZW91dHNxAH4AC4IgL6t0AAZBQ0NFUFRzcQB+AAuYS/AVdAAKVXJpVG9vTG9uZ3NxAH4AC+NS+qx0AA9HQVRFV0FZX1RJTUVPVVRzcQB+AAufb+7EdAALTXVsdGlTdGF0dXNzcQB+AAstoXs8dAAGU0VSVkVSc3EAfgALF8mreXQAHUFDQ0VTU19DT05UUk9MX1JFUVVFU1RfTUVUSE9Ec3EAfgALMc8jxXQAFFVOUFJPQ0VTU0FCTEVfRU5USVRZc3EAfgAL8Ky7AnQAFkFDQ0VTU19DT05UUk9MX01BWF9BR0VzcQB+AAv8x+fndAAIc2VuZFBhdGhzcQB+AAsxvniPdAACIT1zcQB+AAvuwizJdAANTEFTVF9NT0RJRklFRHNxAH4ACybum9l0AB1BQ0NFU1NfQ09OVFJPTF9FWFBPU0VfSEVBREVSU3NxAH4AC9Bq9WB0AB5BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX0hFQURFUlNzcQB+AAsCEHwhdAALd2l0aENoYXJzZXRzcQB+AAuVmZLedAAIQ29uZmxpY3RzcQB+AAsB/1EEdAAKY29ubmVjdGlvbnNxAH4AC4Dd9c50AAVBTExPV3NxAH4AC5D8hWV0AAZDT09LSUVzcQB+AAv+0gUGdAARSUZfTU9ESUZJRURfU0lOQ0VzcQB+AAv+1tP+dAAIZ2V0Q2xhc3NzcQB+AAveOaDidAADWG1sc3EAfgALlNjZSHQAGUNPTlRFTlRfVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAsIpGTZdAAOY29weSRkZWZhdWx0JDFzcQB+AAtHN5yFdAAESFRNTHNxAH4AC7V8uHt0AAVGb3VuZHNxAH4AC/xqbX90AB1OT05fQVVUSE9SSVRBVElWRV9JTkZPUk1BVElPTnNxAH4ACzDZWIt0AARmb3Jtc3EAfgALsdOD/nQABnJlbmRlcnNxAH4ACxubeFN0AAZQUkFHTUFzcQB+AAuRo+FYdAAISUZfTUFUQ0hzcQB+AAsbM+DodAAdUFJPWFlfQVVUSEVOVElDQVRJT05fUkVRVUlSRURzcQB+AAszc4b6dAANUkVTRVRfQ09OVEVOVHNxAH4AC1j+hjh0AAlTRUVfT1RIRVJzcQB+AAvPaB+kdAARRkFJTEVEX0RFUEVOREVOQ1lzcQB+AAsUHr+ndAACbmVzcQB+AAtX5bPedAAQQ09OVEVOVF9FTkNPRElOR3NxAH4AC5HDhxx0ABNJbnN1ZmZpY2llbnRTdG9yYWdlc3EAfgALS3qONHQABVJBTkdFc3EAfgALR1xun3QAD3dpdGhEYXRlSGVhZGVyc3NxAH4AC83qMcB0AAlVU0VfUFJPWFlzcQB+AAtJUWLMdAAHQWNjZXB0c3NxAH4AC+G3NUt0AAdDSFVOS0VEc3EAfgALpwjvsXQAFFJFUVVFU1RfVVJJX1RPT19MT05Hc3EAfgAL8M+jBnQAElJlZGlyZWN0JGRlZmF1bHQkM3NxAH4AC7Y8T6l0AAZMT0NLRURzcQB+AAuMG24SdAAEd2hlbnNxAH4AC2ARUpt0ABJzZW5kUGF0aCRkZWZhdWx0JDNzcQB+AAtQPmHedAAGaWdub3Jlc3EAfgALXaqks3QABEpzb25zcQB+AAu/3XwldAAJbWF4TGVuZ3Roc3EAfgALkRcKf3QACUZPUkJJRERFTnNxAH4AC2kHZ9N0ABJNRVRIT0RfTk9UX0FMTE9XRURzcQB+AAsJidt/dAACZXFzcQB+AAuOON/vdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALzAg393QADUlGX05PTkVfTUFUQ0hzcQB+AAtKGJ69dAANQUNDRVBUX1JBTkdFU3NxAH4AC9NOI3B0AAlOb0NvbnRlbnRzcQB+AAt7FJnKdAAQWF9SRVFVRVNURURfV0lUSHNxAH4AC+Aog250ABFYX0ZPUldBUkRFRF9QUk9UT3NxAH4AC2Y5dAF0AAt0b2xlcmFudFhtbHNxAH4ACxsYRKx0AAxNVUxUSV9TVEFUVVNzcQB+AAuf3KaodAACIyNzcQB+AAveqNfndAAIZmluYWxpemVzcQB+AAsVQZ7GdAATU0VSVklDRV9VTkFWQUlMQUJMRXNxAH4AC9Mw78t0AA5wcm9kdWN0RWxlbWVudHNxAH4ACxgdEmJ0AAhoYXNoQ29kZXNxAH4AC9eFgGZ0AAZTdGF0dXNzcQB+AAtEXexndAALd2l0aEhlYWRlcnNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgJFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAXY29udHJvbGxlcnMuQXBwbGljYXRpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+Al1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4CRUwACWluaGVyaXRlZHEAfgJFTAAHcGFyZW50c3EAfgJFeHEAfgJic3EAfgJddXEAfgJAAAAAAHNxAH4CXXVxAH4CQAAAAABzcQB+Al11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAADHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AmF0AApDb250cm9sbGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgJhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgJ6dAADYXBpc3EAfgJ6dAADbXZjc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AntzcQB+Am50AAlSZW5kZXJpbmdxAH4CdHNxAH4CbnQAEVJlcXVlc3RFeHRyYWN0b3JzcQB+AnRzcQB+Am50ABBBY2NlcHRFeHRyYWN0b3JzcQB+AnRzcQB+Am50AAxDb250ZW50VHlwZXNzcQB+AnJzcQB+AnV1cQB+AngAAAAEc3EAfgJ6dAAEcGxheXNxAH4CenEAfgJ/c3EAfgJ6dAAEaHR0cHEAfgKDc3EAfgJudAALSGVhZGVyTmFtZXNxAH4CjHNxAH4CbnQABlN0YXR1c3EAfgKMc3EAfgJudAAMSHR0cFByb3RvY29scQB+AoxzcQB+Am50AAtCb2R5UGFyc2Vyc3EAfgJ0c3EAfgJudAAHUmVzdWx0c3EAfgJ0c3EAfgJudAAGT2JqZWN0c3EAfgJyc3EAfgJ1dXEAfgJ4AAAAA3NxAH4CenQABGphdmFzcQB+Anp0AARsYW5ncQB+AoNzcQB+Am50AANBbnlzcQB+AnJzcQB+AnV1cQB+AngAAAACc3EAfgJ6dAAFc2NhbGFxAH4Cg3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFyMXOsQnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEovaG9tZS9vcmlvbC9kZXYvZXhwbG9yYXRpb25zL1BhREVMLWRlc2NyaXB0b3Itd3MvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMTbyKfuM/mF5Bpe+HsrceWbo0Kq
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw9ppY7wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwsy6WLHQABm5vdGlmeXNxAH4ADBinuol0AA5fZGVmYXVsdFByZWZpeHNxAH4ADD4wYHJ0AAR3YWl0c3EAfgAMdW7YBHQADSRhc0luc3RhbmNlT2ZzcQB+AAxFNLP2dAAGZXF1YWxzc3EAfgAMjWLDxnQADGFzSW5zdGFuY2VPZnNxAH4ADPtYp2F0AAxzeW5jaHJvbml6ZWRzcQB+AAyqT3uzdAANJGlzSW5zdGFuY2VPZnNxAH4ADJN4ZiR0AAlub3RpZnlBbGxzcQB+AAzRcMC3dAAMaXNJbnN0YW5jZU9mc3EAfgAMSzmajnQABjxpbml0PnNxAH4ADDc3j8V0AAI9PXNxAH4ADCJIG2p0AAVjbG9uZXNxAH4ADKGehyN0ABJjb21wdXRlRGVzY3JpcHRvcnNzcQB+AAy/QK88dAAIdG9TdHJpbmdzcQB+AAwkHQnkdAACIT1zcQB+AAwse0ebdAAIZ2V0Q2xhc3NzcQB+AAzHAnSBdAACbmVzcQB+AAx+eOuydAACZXFzcQB+AAwc0hBAdAASUmV2ZXJzZUFwcGxpY2F0aW9uc3EAfgAMaSvs1nQAAiMjc3EAfgAMDzfjp3QACGZpbmFsaXplc3EAfgAMRSoAeHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHmNvbnRyb2xsZXJzLlJldmVyc2VBcHBsaWNhdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYnNxAH4AXXVxAH4AQAAAAABzcQB+AF11cQB+AEAAAAAAc3EAfgBddXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB6dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7c3EAfgBudAADQW55c3EAfgByc3EAfgB1dXEAfgB4AAAAAnNxAH4AenQABXNjYWxhcQB+AIF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcjFzrEJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABKL2hvbWUvb3Jpb2wvZGV2L2V4cGxvcmF0aW9ucy9QYURFTC1kZXNjcmlwdG9yLXdzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTp/sKTyQNcUDT/4nDLwfSuZV4hcA==
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwrCMYJAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwoRF5CnQABm5vdGlmeXNxAH4ADC7eirB0AA5fZGVmYXVsdFByZWZpeHNxAH4ADM+ns3t0AAR3YWl0c3EAfgAMv+P/K3QADSRhc0luc3RhbmNlT2ZzcQB+AAxdpC7adAAGZXF1YWxzc3EAfgAM2ZArQ3QADGFzSW5zdGFuY2VPZnNxAH4ADAzxghV0AAxzeW5jaHJvbml6ZWRzcQB+AAyXwTgadAANJGlzSW5zdGFuY2VPZnNxAH4ADJhNUrJ0AAlub3RpZnlBbGxzcQB+AAxxUZJGdAAMaXNJbnN0YW5jZU9mc3EAfgAMOow5OnQABjxpbml0PnNxAH4ADH3/u4t0AAI9PXNxAH4ADLZUKk50AAVjbG9uZXNxAH4ADLsRmfl0ABJjb21wdXRlRGVzY3JpcHRvcnNzcQB+AAxkyEN1dAAIdG9TdHJpbmdzcQB+AAyB4exQdAACIT1zcQB+AAz7KYo5dAAIZ2V0Q2xhc3NzcQB+AAzJoOULdAACbmVzcQB+AAyfLocHdAACZXFzcQB+AAyyaYaSdAASUmV2ZXJzZUFwcGxpY2F0aW9uc3EAfgAMGi9cRXQAAiMjc3EAfgAM0DIRSHQACGZpbmFsaXplc3EAfgAMCVoBvXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ARXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAKWNvbnRyb2xsZXJzLmphdmFzY3JpcHQuUmV2ZXJzZUFwcGxpY2F0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBic3EAfgBddXEAfgBAAAAAAHNxAH4AXXVxAH4AQAAAAABzcQB+AF11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHtzcQB+AG50AANBbnlzcQB+AHJzcQB+AHV1cQB+AHgAAAACc3EAfgB6dAAFc2NhbGFxAH4AgXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAFmNvbnRyb2xsZXJzLmphdmFzY3JpcHRzcQB+AIt0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcjFzrEJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABKL2hvbWUvb3Jpb2wvZGV2L2V4cGxvcmF0aW9ucy9QYURFTC1kZXNjcmlwdG9yLXdzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQyy7pze/VNIVV2XfmpbDr7SYK+Jw==
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwjJQg4wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAALc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwNYQyw3QABm5vdGlmeXNxAH4ADG166tR0AAR3YWl0c3EAfgAMH6i60HQABnJvdXRlc3NxAH4ADFU2XOJ0AAZlcXVhbHNzcQB+AAzc8JEedAARcm91dGVzJGphdmFzY3JpcHRzcQB+AAx+YTh4dAAJbm90aWZ5QWxsc3EAfgAM0Z8h5HQABjxpbml0PnNxAH4ADEtWKuR0AAtBcHBsaWNhdGlvbnNxAH4ADFWqzvh0AAh0b1N0cmluZ3NxAH4ADCELfHB0AAhnZXRDbGFzc3NxAH4ADB7n6jZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AC14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJjb250cm9sbGVycy5yb3V0ZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS50aHJvd3NzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ARnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAtTAAJaW5oZXJpdGVkcQB+AC1MAAdwYXJlbnRzcQB+AC14cQB+AEtzcQB+AEZ1cQB+ACgAAAAAc3EAfgBGdXEAfgAoAAAAAHNxAH4ARnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ASnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ASnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AY3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AZHNxAH4AKnEAfgA3cQB+ADlxAH4AO3EAfgA8cQB+AD5+cQB+AD90AAZNb2R1bGV1cQB+AEMAAAAAc3EAfgBGcQB+AExzcQB+AEZzcQB+AE5zcQB+AEZ1cQB+ACgAAAAAc3EAfgBGdXEAfgAoAAAAAHNxAH4ARnVxAH4AVQAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcjFzrEJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABKL2hvbWUvb3Jpb2wvZGV2L2V4cGxvcmF0aW9ucy9QYURFTC1kZXNjcmlwdG9yLXdzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQI7YcEmgaPy5Ku5zO9pzaqepe8Eg==
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwhgIsZwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAhc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwk6eXS3QABm5vdGlmeXNxAH4ADAUApr90AApiYWRSZXF1ZXN0c3EAfgAMzTb8m3QABHdhaXRzcQB+AAzlz9FxdAANJGFzSW5zdGFuY2VPZnNxAH4ADMBQk690AAZyb3V0ZXNzcQB+AAz5I7MsdAANY3JlYXRlSW52b2tlcnNxAH4ADF0dQ250AAZlcXVhbHNzcQB+AAwfCfwMdAAGcHJlZml4c3EAfgAMhgno9nQADGFzSW5zdGFuY2VPZnNxAH4ADFO9rSh0AA1kb2N1bWVudGF0aW9uc3EAfgAMy9BldHQADHN5bmNocm9uaXplZHNxAH4ADF9emxl0AA0kaXNJbnN0YW5jZU9mc3EAfgAM+8Y7IXQACmhhbmRsZXJGb3JzcQB+AAymvaEMdAAJbm90aWZ5QWxsc3EAfgAM6SmvrXQADGlzSW5zdGFuY2VPZnNxAH4ADFO1Q2B0AAxlcnJvckhhbmRsZXJzcQB+AAzwGWmJdAAGPGluaXQ+c3EAfgAMDNMLL3QAAj09c3EAfgAMbcj8DnQABWNsb25lc3EAfgAMfRpJ6XQABiRpbml0JHNxAH4ADEce4750AAZSb3V0ZXNzcQB+AAzGyvDEdAAIdG9TdHJpbmdzcQB+AAzgCUlDdAACIT1zcQB+AAyIMk/EdAAJZmFrZVZhbHVlc3EAfgAMqZUQL3QACGdldENsYXNzc3EAfgAMkAdwRnQAAm5lc3EAfgAMVnYxOnQACndpdGhQcmVmaXhzcQB+AAyc75wwdAAEY2FsbHNxAH4ADFZ0e490AAJlcXNxAH4ADOjHaY50AA1kZWZhdWx0UHJlZml4c3EAfgAMRmD7g3QAAiMjc3EAfgAMB64eOnQACGZpbmFsaXplc3EAfgAMagf2MHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AWXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADXJvdXRlci5Sb3V0ZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AWUwACWluaGVyaXRlZHEAfgBZTAAHcGFyZW50c3EAfgBZeHEAfgB2c3EAfgBxdXEAfgBUAAAAAHNxAH4AcXVxAH4AVAAAAABzcQB+AHF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHV0AAZSb3V0ZXNzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABnJvdXRlcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCPc3EAfgCCdAAPR2VuZXJhdGVkUm91dGVyc3EAfgCGc3EAfgCJdXEAfgCMAAAABHNxAH4AjnQABHBsYXlzcQB+AI50AARjb3Jlc3EAfgCOdAAHcm91dGluZ3EAfgCTc3EAfgCCdAAGUm91dGVyc3EAfgCGc3EAfgCJdXEAfgCMAAAABHNxAH4AjnQABHBsYXlzcQB+AI50AANhcGlzcQB+AI50AAdyb3V0aW5ncQB+AJNzcQB+AIJ0AAZPYmplY3RzcQB+AIZzcQB+AIl1cQB+AIwAAAADc3EAfgCOdAAEamF2YXNxAH4AjnQABGxhbmdxAH4Ak3NxAH4AgnQAA0FueXNxAH4AhnNxAH4AiXVxAH4AjAAAAAJzcQB+AI50AAVzY2FsYXEAfgCTc3EAfgBWcQB+AGN1cQB+AGQAAAAAc3EAfgBmAHQADXJvdXRlci5Sb3V0ZXN1cQB+AGkAAAAAfnEAfgBrdAAIQ2xhc3NEZWZ1cQB+AG8AAAAAc3EAfgBxcQB+AHdzcQB+AHFzcQB+AHlzcQB+AHF1cQB+AFQAAAAAc3EAfgBxdXEAfgBUAAAAAHNxAH4AcXVxAH4AgAAAAARzcQB+AIJ0AA9HZW5lcmF0ZWRSb3V0ZXJzcQB+AIZzcQB+AIl1cQB+AIwAAAAEc3EAfgCOdAAEcGxheXNxAH4AjnQABGNvcmVzcQB+AI50AAdyb3V0aW5ncQB+AJNzcQB+AIJ0AAZSb3V0ZXJzcQB+AIZzcQB+AIl1cQB+AIwAAAAEc3EAfgCOdAAEcGxheXNxAH4AjnEAfgCnc3EAfgCOdAAHcm91dGluZ3EAfgCTc3EAfgCCcQB+AKtzcQB+AIZzcQB+AIl1cQB+AIwAAAADc3EAfgCOcQB+ALBzcQB+AI5xAH4AsnEAfgCTc3EAfgCCcQB+ALRzcQB+AIZzcQB+AIl1cQB+AIwAAAACc3EAfgCOcQB+ALlxAH4Ak3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnJvdXRlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcjFzrEJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABKL2hvbWUvb3Jpb2wvZGV2L2V4cGxvcmF0aW9ucy9QYURFTC1kZXNjcmlwdG9yLXdzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTtoMdqACZQ9xTBg9JIz1ZtyD9h7w==
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwyXv9DQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3SNaY3QABm5vdGlmeXNxAH4ADDqZ8+l0AAxieU5hbWVQcmVmaXhzcQB+AAwaoC4qdAAEd2FpdHNxAH4ADCKKFB50AA0kYXNJbnN0YW5jZU9mc3EAfgAMaULSCHQABmVxdWFsc3NxAH4ADHOOIFd0AAZwcmVmaXhzcQB+AAyh7h6fdAAMYXNJbnN0YW5jZU9mc3EAfgAMSdNNC3QADFJvdXRlc1ByZWZpeHNxAH4ADMFVI+50AAxzeW5jaHJvbml6ZWRzcQB+AAzc9bSjdAANJGlzSW5zdGFuY2VPZnNxAH4ADL28U7F0AAlub3RpZnlBbGxzcQB+AAz/ysYxdAAMaXNJbnN0YW5jZU9mc3EAfgAM2W34NHQAAj09c3EAfgAMxTNSy3QABWNsb25lc3EAfgAM+6h7k3QACHRvU3RyaW5nc3EAfgAMjL/9EnQAAiE9c3EAfgAMFWcPZ3QACGdldENsYXNzc3EAfgAMRJBH63QACXNldFByZWZpeHNxAH4ADA44Ta90AAJuZXNxAH4ADBnhnUh0AAJlcXNxAH4ADBp2Pzd0AAIjI3NxAH4ADAff5nh0AAhmaW5hbGl6ZXNxAH4ADIIAnnp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNyb3V0ZXIuUm91dGVzUHJlZml4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYnNxAH4AXXVxAH4AQAAAAABzcQB+AF11cQB+AEAAAAAAc3EAfgBddXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB6dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7c3EAfgBudAADQW55c3EAfgByc3EAfgB1dXEAfgB4AAAAAnNxAH4AenQABXNjYWxhcQB+AIF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXIxc6xCdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASi9ob21lL29yaW9sL2Rldi9leHBsb3JhdGlvbnMvUGFERUwtZGVzY3JpcHRvci13cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUxapz7LulNGqmz2/Y9iWvxbr2npU=
+external apis:
+0 items
+source infos:
+6 items
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/app/controllers/Application.scala -> 
+AAAAAAAAAAA=
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala -> 
+AAAAAAAAAAA=
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> 
+AAAAAAAAAAA=
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/controllers/routes.java -> 
+AAAAAAAAAAA=
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/Routes.scala -> 
+AAAAAAAAAAA=
+/home/oriol/dev/explorations/PaDEL-descriptor-ws/target/scala-2.11/routes/main/router/RoutesPrefix.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcjFzrEJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9ob21lL29yaW9sL2Rldi9leHBsb3JhdGlvbnMvUGFERUwtZGVzY3JpcHRvci13cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
